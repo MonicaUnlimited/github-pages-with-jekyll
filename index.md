@@ -13,25 +13,7 @@
             </p>
             
             <p>You see that bamboo behind me though, you see that bamboo? Ain’t nothin’ like bamboo. Bless up. Don’t ever play yourself. The key to more success is to get a massage once a week, very important, major key, cloth talk. Don’t ever play yourself. We don’t see them, we will never see them. Put it this way, it took me twenty five years to get these plants, twenty five years of blood sweat and tears, and I’m never giving up, I’m just getting started. Let me be clear, you have to make it through the jungle to make it to paradise, that’s the key, Lion!</p>
-
-        <h2>This is my random ordered list</h2>
-        <ol>
-            <li>Purple</li>
-            <li><a href="http://www.google.com">Go to Google</a></li>
-            <li>Teal</li>
-        </ol>
-        
-        <h2>This is my random unordered list</h2>
-        <ul>
-            <li>Prince</li>
-            <li>Love</li>
-            <li>Peace</li>
-        </ul>
-
-        <a href="http://www.google.com">Go to Google</a>
-          <br/>
-        <a href="page2.html">Click HERE for page 2</a>
-
+           
         <img src="http://i.dailymail.co.uk/i/pix/2016/06/07/17/34DE496C00000578-3629776-image-a-55_1465318001024.jpg" alt="Picture of prince">
         
     </body>
