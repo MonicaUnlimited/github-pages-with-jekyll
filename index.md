@@ -1,4 +1,3 @@
-# My Super Dope Webpage
 ## MonicaUnlimited
 ### Enjoy the random Khaled Ipsum paragraphs
         
